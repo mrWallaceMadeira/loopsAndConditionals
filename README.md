@@ -46,4 +46,11 @@ It is like writing the draft of your english essay, omit the fanciness & just ge
 ###### :eyes:&nbsp; 
 be clear about which statements will execute under what conditions!\
 _exempli gratia_: if condition1 & condition2 are both true, what will happen?
+
+### Noodles & sauce
+Genuinely, you now have the #skills to tackle pretty complicated programs.\
+This is sort of like the algebra of computer programming. It's pretty basic but you can also make the general theory of relativity with it.\
+You've got the tools, time to practice & get creative.
+
+
   
