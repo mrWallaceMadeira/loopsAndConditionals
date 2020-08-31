@@ -52,5 +52,6 @@ Genuinely, you now have the #skills to tackle pretty complicated programs.\
 This is sort of like the algebra of computer programming. It's pretty basic but you can also make the general theory of relativity with it.\
 You've got the tools, time to practice & get creative.
 
-
+### C'est fini
+Entry ticket [here](https://forms.office.com/Pages/ResponsePage.aspx?id=P9fbuiFvgkyZJ5ogeV5C0bXAAGShYuhAq0O_bKHZJnxUNk9FNkhSSllVMDZFS1ZSUTVYVUhJQVhEVCQlQCN0PWcu)
   
