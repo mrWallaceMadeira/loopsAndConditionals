@@ -29,9 +29,7 @@ It is like writing the draft of your english essay, omit the fanciness & just ge
   }
 ```
 ###### if/else
-```
-  // as we've reviewed, sum'n crazy will only happen if both 1 AND 3 are true
-  
+```  
   if (condition1) {
     do this thing;
     if (condition3) {
@@ -45,4 +43,6 @@ It is like writing the draft of your english essay, omit the fanciness & just ge
     do this thing;
   }
 ```
+:eyes:&nbsp; be clear about which statements will execute under what conditions!\
+i.e. if condition1 & condition2 are both true, what will happen?
   
