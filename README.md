@@ -44,5 +44,5 @@ It is like writing the draft of your english essay, omit the fanciness & just ge
   }
 ```
 :eyes:&nbsp; be clear about which statements will execute under what conditions!\
-i.e. if condition1 & condition2 are both true, what will happen?
+  - _exempli gratia_: if condition1 & condition2 are both true, what will happen?
   
