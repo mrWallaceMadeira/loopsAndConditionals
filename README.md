@@ -21,7 +21,7 @@ Let's review the loops and conditionals we've seen thus far.\
   }
 ```
 Side note: what I've just done above is called pseudocode.\
-It is like writing the draft of your english essay, omit the fanciness & just get the ideas on the page.\
+It is like writing the draft of your english essay, omit the fanciness & just get the ideas on the page.
 ###### for loops
 ```
   for (setup variable; condition; update condition;) {
