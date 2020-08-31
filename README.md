@@ -9,7 +9,7 @@ Combine the two & you've got the secret sauce of far more complicated programs.
 ----
 ### Not new != easy
 These topics aren't new, they'll just take practice & patience.\
-Let's review the loops and conditionals we've seen thus far.\
+Let's review the loops and conditionals we've seen thus far.
 ###### while loops
 ```
 
